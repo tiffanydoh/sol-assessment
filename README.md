@@ -6,7 +6,7 @@
 
 ## Running the Assessment:
 - git clone the repository
-- cd into assessment-tiffany-do
+- cd into sol-assessment
 - Open the files in a code editor(if VS code use 'code .') to view the code
 - Run $ node node_example.js to run the console.logs (activity 1)
 - Run $ node node_example2.js to run the console.logs (activity 2)
