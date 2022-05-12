@@ -67,16 +67,7 @@ console.log(findKey(titleOccurences, 14))
 console.log(findKey(titleOccurences, 13))
 // // Output: Watched Valentine
 
+console.log("This is the top 10 movies: " +
+"Watched Motion Sickness, Watched Paprika, Watched Be Sweet,Watched Kyoto, Watched Faith Healer, Watched Hardline, Watched Ringside, Watched BUZZCUT, Watched This Life, Watched Valentine,")
 
-//TOP 10 MOVIES:
-// Watched Motion Sickness
-// Watched Paprika
-// Watched Be Sweet
-// Watched Kyoto
-// Watched Faith Healer
-// Watched Hardline
-// Watched Ringside
-// Watched BUZZCUT
-// Watched This Life
-// Watched Valentine
 
